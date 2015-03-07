@@ -10,6 +10,8 @@
 
 @interface QntAppDelegate : NSObject <NSApplicationDelegate>
 
+- (IBAction)changeView:(id)sender;
+
 @property (assign) IBOutlet NSWindow *window;
 
 @end

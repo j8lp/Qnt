@@ -15,4 +15,7 @@
     // Insert code here to initialize your application
 }
 
+- (IBAction)changeView:(id)sender {
+    
+}
 @end

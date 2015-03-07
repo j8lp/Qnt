@@ -13,6 +13,8 @@
 		E2E41BA31665433200439BC6 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E2E41BA11665433200439BC6 /* Credits.rtf */; };
 		E2E41BA61665433200439BC6 /* QntAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E2E41BA51665433200439BC6 /* QntAppDelegate.m */; };
 		E2E41BA91665433200439BC6 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2E41BA71665433200439BC6 /* MainMenu.xib */; };
+		E2E41BB01665434A00439BC6 /* View.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2E41BAF1665434A00439BC6 /* View.xib */; };
+		E2E41BB21665B09700439BC6 /* Application.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2E41BB11665B09700439BC6 /* Application.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		E2E41BA41665433200439BC6 /* QntAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QntAppDelegate.h; sourceTree = "<group>"; };
 		E2E41BA51665433200439BC6 /* QntAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QntAppDelegate.m; sourceTree = "<group>"; };
 		E2E41BA81665433200439BC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		E2E41BAF1665434A00439BC6 /* View.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = View.xib; sourceTree = "<group>"; };
+		E2E41BB11665B09700439BC6 /* Application.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Application.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +88,9 @@
 			children = (
 				E2E41BA41665433200439BC6 /* QntAppDelegate.h */,
 				E2E41BA51665433200439BC6 /* QntAppDelegate.m */,
+				E2E41BB11665B09700439BC6 /* Application.xib */,
 				E2E41BA71665433200439BC6 /* MainMenu.xib */,
+				E2E41BAF1665434A00439BC6 /* View.xib */,
 				E2E41B991665433200439BC6 /* Supporting Files */,
 			);
 			path = Qnt;
@@ -157,6 +163,8 @@
 				E2E41B9D1665433200439BC6 /* InfoPlist.strings in Resources */,
 				E2E41BA31665433200439BC6 /* Credits.rtf in Resources */,
 				E2E41BA91665433200439BC6 /* MainMenu.xib in Resources */,
+				E2E41BB01665434A00439BC6 /* View.xib in Resources */,
+				E2E41BB21665B09700439BC6 /* Application.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
